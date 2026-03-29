@@ -19,14 +19,8 @@
 * [Venues](4-stakeholders/venues.md)
 * [Core Team](4-stakeholders/core-team.md)
 
-## 5. Cách tham gia
-* [Participation](5-participation/participation.md)
+## 5. Lộ trình
+* [Roadmap](5-roadmap/roadmap.md)
 
-## 6. Vòng lặp tăng trưởng
-* [Loops](6-growth/loops.md)
-
-## 7. Lộ trình
-* [Roadmap](7-roadmap/roadmap.md)
-
-## 8. Tham gia
-* [Get Involved](8-cta/get-involved.md)
+## 6. Tham gia
+* [Get Involved](6-cta/get-involved.md)
