@@ -1,10 +1,15 @@
 # Participants
 
+---
+
 ## Vai trò
 
-Nguồn cung năng lực (talent supply)
+Nguồn cung năng lực
 
-Bao gồm:
+---
+
+## Bao gồm
+
 - Builders
 - Operators
 - Connectors
@@ -21,6 +26,6 @@ Bao gồm:
 
 ## Nhận được
 
-- Cơ hội (project, job, collaboration)
-- Reputation (uy tín)
-- Network chất lượng cao
+- Cơ hội
+- Reputation
+- Network chất lượng
