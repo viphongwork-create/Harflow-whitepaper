@@ -38,11 +38,6 @@ Xây dựng một hệ thống chuyển đổi:
 
 **Con người → Kết nối → Cơ hội → Kết quả**
 
-Không phải là một community.  
-Mà là:
-
-> Một hệ thống phân bổ nguồn lực con người  
-(Human capital allocation system)
 
 ---
 
@@ -56,9 +51,6 @@ Mà là:
 
 - Outcome-driven  
   (tập trung vào kết quả, không phải tham gia)
-
-- Controlled serendipity  
-  (tình cờ có thiết kế)
 
 - Ecosystem, not events  
   (hệ sinh thái, không phải chuỗi sự kiện)
