@@ -13,7 +13,11 @@ Những cách tiếp cận quen thuộc thường dừng ở workshop hay chia s
 
 Harflow được tạo ra để xây dựng những môi trường nơi con người phát triển thông qua kết nối, trải nghiệm thực và sự hợp tác có ý nghĩa. Ở đó, workshop, event và fireside chat không chỉ là nơi gặp gỡ, mà là điểm khởi đầu cho những hành động tạo ra giá trị thật.
 
-Harflow tập trung vào việc tạo ra những kết nối có khả năng đi xa. Không chỉ là gặp đúng người, mà là gặp những người có thể bổ khuyết cho nhau để cùng giải quyết vấn đề và cùng tạo ra kết quả. Khi những con người phù hợp được đặt trong đúng bối cảnh, kết nối không dừng lại ở trao đổi, mà tiếp tục phát triển thành hợp tác.
+Harflow tập trung vào việc tạo ra những kết nối có khả năng đi xa.  
+
+**Không chỉ là gặp đúng người, mà là gặp những người có thể bổ khuyết cho nhau để cùng giải quyết vấn đề và cùng tạo ra kết quả.**
+
+Khi những con người phù hợp được đặt trong đúng bối cảnh, kết nối không dừng lại ở trao đổi, mà tiếp tục phát triển thành hợp tác.
 
 Khi bắt đầu, Harflow không có tất cả câu trả lời. Nhưng Harflow tin rằng nếu thiết kế đúng môi trường, những điều giá trị sẽ có cơ hội hình thành. Và vì vậy, Harflow bắt đầu với những câu hỏi:
 
