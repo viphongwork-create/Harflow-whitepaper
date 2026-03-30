@@ -8,7 +8,9 @@ Nhà tài trợ không chỉ cung cấp tài chính.
 
 Họ là:
 
-> Nguồn tạo cơ hội và định hướng bài toán trong hệ sinh thái
+> Nguồn tạo cơ hội và định hình bài toán trong hệ sinh thái
+
+Thông qua đó, họ không chỉ quan sát thị trường, mà tham gia trực tiếp vào quá trình tạo ra giá trị.
 
 ---
 
@@ -20,17 +22,17 @@ Họ là:
 
 ---
 
-## Nhận được (Short-term)
+## Nhận được
 
 ### 1. Access to curated talent
-- Tiếp cận người phù hợp, đã được lọc
-- Tương tác trong bối cảnh thực (không phải CV)
+- Tiếp cận builder đã được chọn lọc
+- Đánh giá thông qua hành động thực, không phải CV
 
 ---
 
 ### 2. Market testing
-- Test idea / sản phẩm
-- Nhận feedback nhanh
+- Test idea / sản phẩm trong môi trường thực
+- Nhận feedback nhanh từ người có năng lực
 
 ---
 
@@ -43,58 +45,47 @@ Họ là:
 
 ### 4. Brand through impact
 - Gắn thương hiệu với kết quả thực
-- Không chỉ là visibility
+- Xuất hiện trong bối cảnh tạo ra giá trị, không chỉ là truyền thông
 
 ---
 
-## Nhận được (Long-term)
-
-### 1. Continuous opportunity pipeline
+### 5. Continuous opportunity pipeline
 - Dòng cơ hội liên tục
-- Không phụ thuộc vào từng event
+- Không phụ thuộc vào từng sự kiện riêng lẻ
 
 ---
 
-### 2. Ecosystem positioning
-- Trở thành một node quan trọng trong hệ
-- Gắn với builder và innovation
-
----
-
-### 3. Talent pipeline ownership
-- Tiếp cận talent trước thị trường
-- Xây dựng mối quan hệ dài hạn
-
----
-
-### 4. Influence over problem space
-- Định hình loại bài toán được giải
-- Tác động đến hướng phát triển hệ sinh thái
+### 6. Ecosystem positioning
+- Trở thành một node quan trọng trong hệ sinh thái
+- Gắn với builder, innovation và execution
 
 ---
 
 ## Cách tham gia
 
-### 1. Become a Challenge Owner
-- Đưa bài toán vào hệ thống
-- Define scope, reward, timeline
+### 1. Single Activation
+- Tài trợ 1 workshop / event / fireside chat
+- Đưa bài toán cụ thể vào hệ thống
+- Quan sát và thử nghiệm cách hệ vận hành
 
 ---
 
-### 2. Sponsor Opportunity Flow
-- Tài trợ cho các pilot / project
-- Kích hoạt nhiều cơ hội hơn
+### 2. Multi-Activation
+- Tham gia nhiều hoạt động trong một giai đoạn
+- Tăng tần suất xuất hiện trong hệ sinh thái
+- Tạo nhiều điểm chạm với builder
 
 ---
 
 ### 3. Long-term Partnership
-- Đồng hành nhiều chu kỳ
-- Tối ưu deal flow và talent access
+- Đồng hành dài hạn qua nhiều chu kỳ
+- Tối ưu hóa deal flow và talent access
+- Gắn sâu vào hệ thống và opportunity flow
 
 ---
 
 ## Nguyên tắc
 
-- Monetization không nằm ở interaction giữa người với người  
 - Giá trị được tạo ra từ outcome, không phải sự kiện  
-- Sponsor tham gia vào hệ thống, không chỉ tài trợ cho event
+- Monetization không nằm ở interaction, mà ở kết quả được tạo ra  
+- Sponsor tham gia vào hệ thống, không chỉ tài trợ cho event  
