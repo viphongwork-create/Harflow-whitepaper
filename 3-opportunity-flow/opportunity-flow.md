@@ -14,6 +14,9 @@ Cơ hội đến từ 3 nguồn:
 ### 2. Nhà tài trợ
 - Sponsored challenges
 - Innovation problems
+- Access to high-quality builders
+- Early signal on emerging ideas
+- Branding thông qua việc gắn với các hoạt động và kết quả thực
 
 ### 3. Nội bộ hệ sinh thái
 - Collaboration
