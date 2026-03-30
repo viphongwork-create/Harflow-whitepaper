@@ -12,7 +12,7 @@
 * [Participants](4-stakeholders/participants.md)
 * [Doanh nghiệp](4-stakeholders/business.md)
 * [Nhà tài trợ](4-stakeholders/sponsors.md)
-* [Venues](4-stakeholders/venues.md)
+* [Địa điểm](4-stakeholders/venues.md)
 
 
 ## Lộ trình
