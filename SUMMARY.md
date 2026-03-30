@@ -13,7 +13,7 @@
 * [Doanh nghiệp](4-stakeholders/business.md)
 * [Nhà tài trợ](4-stakeholders/sponsors.md)
 * [Venues](4-stakeholders/venues.md)
-* [Core Team](4-stakeholders/core-team.md)
+
 
 ## Lộ trình
 * [Roadmap](5-roadmap/roadmap.md)
