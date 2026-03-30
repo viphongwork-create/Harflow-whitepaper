@@ -8,7 +8,7 @@
 ## Cơ hội
 * [Dòng cơ hội](3-opportunity-flow/opportunity-flow.md)
 
-## Đối tượng
+## Các bên tham gia
 * [Participants](4-stakeholders/participants.md)
 * [Doanh nghiệp](4-stakeholders/business.md)
 * [Nhà tài trợ](4-stakeholders/sponsors.md)
