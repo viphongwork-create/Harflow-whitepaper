@@ -1,6 +1,6 @@
 # Whitepaper
 
-* [Giới thiệu](README.md)
+* [Harflow](README.md)
 
 ## Cách hoạt động
 * [Hệ thống](2-system/overview.md)
