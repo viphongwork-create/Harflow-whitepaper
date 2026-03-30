@@ -1,4 +1,4 @@
-# Harflow
+
 ### From contact to impact
 
 Ở nhiều thành phố đang phát triển, vấn đề không phải là thiếu tham vọng, mà là thiếu môi trường để phát triển. Nhiều người muốn tiến xa hơn nhưng bị giới hạn bởi kỳ vọng thấp, ít tiếp xúc với tiêu chuẩn cao và những cơ hội rời rạc. Vì vậy, tiềm năng không được khai thác không phải do cá nhân, mà do hệ thống xung quanh chưa tạo đủ điều kiện.
