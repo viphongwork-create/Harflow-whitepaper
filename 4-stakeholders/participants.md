@@ -1,61 +1,64 @@
-# Participants
+# Người tham gia 
 
 ---
 
 ## Vai trò
 
-Nguồn cung năng lực
+Nguồn cung năng lực (skills & execution)
 
 ---
 
 ## Bao gồm
 
-- Builders
-- Operators
-- Connectors
+- Builders (người xây dựng, tạo sản phẩm / giải pháp)
+- Operators (người vận hành, triển khai)
+- Connectors (người kết nối, tạo liên kết)
 
 ---
 
 ## Đóng góp
 
-- Kỹ năng
-- Thời gian
-- Thực thi
+- Kỹ năng  
+- Thời gian  
+- Thực thi (execution)  
 
 ---
 
 ## Nhận được
 
-- Cơ hội
-- Reputation
-- Network chất lượng
+- Cơ hội (opportunities)  
+- Uy tín (reputation)  
+- Mạng lưới chất lượng (high-quality network)  
+
+---
 
 # Cách tham gia
 
 ---
 
-## Entry
+## Bước vào hệ (Entry)
 
-Workshop/Event/Firechat/Referral
-
----
-
-## Talent Pipeline
-
-Participant → Contributor → Builder → Core Member
+Workshop / Event / Fireside chat / Referral (giới thiệu)
 
 ---
 
-## Internal Talent Market
+## Lộ trình phát triển (Talent Pipeline)
 
-- Contributor: hỗ trợ
-- Builder: tham gia dự án
-- Core: vận hành hệ thống
+Participant → Contributor → Builder → Core Member  
+(Người tham gia → Người đóng góp → Người xây dựng → Thành viên nòng cốt)
 
 ---
 
-## Reputation System
+## Thị trường nhân lực nội bộ (Internal Talent Market)
 
-- Dựa trên đóng góp
-- Tăng cơ hội
-- Tăng trust
+- Contributor (người hỗ trợ)  
+- Builder (người tham gia dự án)  
+- Core (người vận hành hệ thống)  
+
+---
+
+## Hệ thống uy tín (Reputation System)
+
+- Dựa trên đóng góp  
+- Tăng cơ hội  
+- Tăng mức độ tin cậy (trust)  
