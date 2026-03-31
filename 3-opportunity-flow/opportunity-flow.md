@@ -35,16 +35,6 @@ Mọi cơ hội được chuẩn hóa:
 
 ---
 
-## Cách hoạt động
-
-1. Problem được đưa vào hệ thống
-2. Người phù hợp được match
-3. Nhóm nhỏ hình thành
-4. Collaboration bắt đầu
-5. Deal được tạo
-
----
-
 ## Vai trò của hệ thống
 
 Không execute
