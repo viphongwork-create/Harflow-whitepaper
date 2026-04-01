@@ -79,7 +79,7 @@ Dành cho:
 Nếu bạn muốn tham gia hoặc tìm hiểu thêm:
 
 - Zalo: https://zalo.me/viphong  
-- Email: viphong.work@gmail.com  
+- Email: harflowhq@gmail.com  
 - Phone: 0345 34 54 74  
 
 ---
